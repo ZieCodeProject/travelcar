@@ -26,7 +26,6 @@
 
             // REGISTER SCRIPTS - START
                 function bcm_register_scripts(){
-                    wp_enqueue_script('bcm-all', get_template_directory_uri().'/inc/asset/js/all.js', array(),'', true);
                     wp_enqueue_script('bcm-bundle', get_template_directory_uri().'/script/bundle.js', array(),'', true);
                     if ( is_page( 'front-page' ) || is_page( 'home' ) ) {
                        
