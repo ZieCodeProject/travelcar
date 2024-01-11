@@ -2,7 +2,7 @@
     if ( ! function_exists( 'bcm_setup' ) ) :
         function bcm_setup() {
             // META BOX - START
-                require_once get_template_directory().'/inc/meta.php';
+                // require_once get_template_directory().'/inc/meta.php'; // tak disable masih ambigu buat apa. file tak delete
             // META BOX - END
             
             // WORDPRESS CORE - START
