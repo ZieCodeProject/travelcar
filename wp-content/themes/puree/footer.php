@@ -15,7 +15,7 @@
       </div>
 
       <div class="animate_top">
-        <p>&copy; 2025 Base. All rights reserved</p>
+          <p>&copy; 2024 Base. Created by puree</p>
       </div>
     </div>
     <!-- Footer Bottom -->

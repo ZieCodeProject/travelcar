@@ -5,12 +5,10 @@
       <!-- ===== Hero Start ===== -->
       <section class="gj do ir hj sp jr i pg">
         <!-- Hero Images -->
-        <div class="xc fn zd/2 2xl:ud-w-187.5 bd 2xl:ud-h-171.5 h q r">
-          <img src="<?php bloginfo('template_directory');?>/images/shape-01.svg" alt="shape" class="xc 2xl:ud-block h t -ud-left-[10%] ua" />
-          <img src="<?php bloginfo('template_directory');?>/images/shape-02.svg" alt="shape" class="xc 2xl:ud-block h u p va" />
-          <img src="<?php bloginfo('template_directory');?>/images/shape-03.svg" alt="shape" class="xc 2xl:ud-block h v w va" />
-          <img src="<?php bloginfo('template_directory');?>/images/shape-04.svg" alt="shape" class="h q r" />
-          <img src="<?php bloginfo('template_directory');?>/images/hero.png" alt="Woman" class="h q r ua" />
+          <div class="xc fn zd/2 2xl:ud-w-187.5 bd 2xl:ud-h-171.5 h q r">
+        
+          <img style="margin-top: 5rem;margin-right: 2rem;" src="<?php bloginfo('template_directory');?>/images/header-image.png" alt="shape" class="h q r" />
+         
         </div>
 
         <!-- Hero Content -->
@@ -869,7 +867,7 @@
      
 
       <!-- ===== CTA Start ===== -->
-      <section class="i pg gh ji">
+       <section class="i pg gh ji" style="background-color:#3d3d43;">
   <!-- Bg Shape -->
   <img class="h p q" src="<?php bloginfo('template_directory');?>/images/shape-16.svg" alt="Bg Shape" />
 
@@ -883,6 +881,13 @@
             Percayakan kami untuk memberikan layanan terbaik, pengalaman tak terlupakan, dan peluang baru. Jangan tunda lagi,
             langkah pertama menuju petualangan Anda yang mendebarkan dimulai dengan menghubungi kami sekarang.
         </p>
+         <p class="lk">
+            CV. FE (Fernanda Elvina) Transindo.
+            <br>
+            Office : 
+            Perumtas 3 Blok N-4 No.14
+            Ds. Kepuh Kemiri, Kec. Tulangan Kab. Sidoarjo.
+          </p>
       </div>
       <div class="animate_right bf">
         <a href="https://wa.me/6282143086652" class="vc ek kk hh rg ol il cm gi hi">
